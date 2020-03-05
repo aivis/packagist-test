@@ -1,0 +1,11 @@
+{
+    "name": "aivis/packagist-test",
+    "description": "Test",
+    "authors": [
+        {
+            "name": "Aivis Silins",
+            "email": "aivis.silins@gmail.com"
+        }
+    ],
+    "require": {}
+}
