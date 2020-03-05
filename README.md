@@ -1,2 +1,2 @@
 # packagist-test
-0.0.2 original
+0.0.3 original
